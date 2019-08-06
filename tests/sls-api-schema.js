@@ -1,6 +1,5 @@
 'use strict';
 
-const assert = require('assert');
 const sandbox = require('sinon').createSandbox();
 
 const { ApiResponse } = require('@janiscommerce/sls-api-response');
